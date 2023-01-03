@@ -18,6 +18,8 @@
 - 👨🏻‍💻 I’m currently learning and cooking up lots of Machine Learning code and other projects.
 - 📄 My Motto: Keep Learning. Progress, not perfection.
 
+[linkedin]: https://www.linkedin.com/in/ehab-abualqumboz/
+
 
 
 
@@ -41,5 +43,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/ehab-abualqumboz/
 
