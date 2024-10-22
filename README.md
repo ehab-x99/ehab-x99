@@ -14,7 +14,7 @@
 
 ## About me
 
-- 👨🏻‍🎓 B.S. Artificial intelligence at the University of Jeddah.
+- 👨🏻‍🎓 B.S. in Artificial intelligence at the University of Jeddah.
 - 👨🏻‍💻 I’m currently learning and cooking up lots of Machine Learning code and other projects.
 - 📄 My Motto: Keep Learning. Progress, not perfection.
 
